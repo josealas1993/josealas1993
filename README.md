@@ -1,6 +1,6 @@
 
 #  👋 About Me:
-I’m llearning web developer<br>
+:computer: I’m llearning web developer<br>
 
 
 ## 🌐 Socials:
@@ -17,6 +17,6 @@ I’m llearning web developer<br>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fortis-a&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=josealas1993&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
