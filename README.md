@@ -1,6 +1,6 @@
 
 #  👋 About Me:
-:computer: I’m llearning web developer<br>
+:book: I’m llearning  Front-end web development<br>
 
 
 ## 🌐 Socials:
